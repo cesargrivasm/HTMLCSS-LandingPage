@@ -45,7 +45,7 @@ section{
 
 .btn {
     cursor: pointer;
-    border: 0ch;
+    border: 0;
     padding-top: 6px;
     padding-bottom: 6px;
     padding-left: 12px;
@@ -56,12 +56,12 @@ section{
 
 
 .btn-default {
-    text-decoration-color: white;
+    color: white;
     background-color: #faa541;
 }
 
 .btn-primary {
-    text-decoration-color: white;
+    color: white;
     background-color: #364147;
 }
 
