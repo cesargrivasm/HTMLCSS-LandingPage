@@ -90,25 +90,29 @@ color: #364147;
 }
 
 .header-nav {
-    size: 170x85;
+    width: 170px;
+    height: 85px;
     border-bottom: 1px;
     color: #a0a0a0;
 }
 
 .brand {
-    size: 170x85;
+    width: 170px;
+    height: 85px;
     margin-left: -15;
     margin-right: 60;
 }
 
 .logo {
-    size: 170x85;
+    width: 170px;
+    height: 85px;
     max-width: 100%;
     height: auto;
 }
 
 .search-box {
-    size: 330x30;
+    width: 330px;
+    height: 30px;
     padding-top: 6px;
     padding-bottom: 6px;
     padding-left: 12px;
