@@ -90,8 +90,8 @@ color: #364147;
 }
 
 .header-nav {
-    width: 170px;
-    height: 85px;
+    /* width: 170px;
+    height: 85px; */
     border-bottom: 1px;
     color: #a0a0a0;
 }
@@ -99,12 +99,12 @@ color: #364147;
 .brand {
     width: 170px;
     height: 85px;
-    margin-left: -15;
-    margin-right: 60;
+    margin-left: -15px;
+    margin-right: 60px;
 }
 
 .logo {
-    width: 170px;
+    width: 170px; 
     height: 85px;
     max-width: 100%;
     height: auto;
