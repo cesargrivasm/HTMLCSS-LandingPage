@@ -77,10 +77,7 @@ section{
     
 }
 
-.text-light {
-font-size: 30px;  
-color: a0a0a0;
-}
+.text-light { font-size: 30px; color: a0a0a0; }
 
 .text-secondary {
 font-size: 30px;
