@@ -206,6 +206,9 @@ color: #364147;
     border-top: 1px solid #a0a0a0;
     border-bottom: 1px solid #a0a0a0;
     padding: 25px 0;
+}
+
+.banner img {
     width: 250px;
 }
 
