@@ -381,3 +381,18 @@ text-decoration: underline;
     background-position: center;
 }
 
+.twitter {
+    background-image: url('../img/twitter.svg');
+}
+
+.facebook {
+    background-image: url('../img/facebook.svg');
+}
+
+.instagram {
+    background-image: url('../img/instagram.svg');
+}
+
+.pinterest {
+    background-image: url('../img/pinterest.svg');
+}
