@@ -362,6 +362,10 @@ footer a {
     text-transform: uppercase;
     font-size: 12px;
     padding: 0 0 4px;
-    text-decoration: underline;
+   
+}
+
+footer a:hover {
+text-decoration: underline;
 }
 
