@@ -324,7 +324,7 @@ color: #364147;
     z-index: 1;
 }
 
-.footer {
+footer {
     display: flex;
     flex-wrap: wrap;
     position: relative;
@@ -333,7 +333,7 @@ color: #364147;
     background-color:#000000;
 }
 
-.footer:after {
+footer:after {
     content: "";
     background-color: #a0a0a0;
     width: 75%;
