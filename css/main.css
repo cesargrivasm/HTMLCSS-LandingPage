@@ -344,3 +344,26 @@ footer:after {
     right: 0;
     z-index: -1;
 }
+
+.list {
+    flex: 0 0 75%;
+    column-gap: 30px 15px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.link-header {
+    text-transform: uppercase;
+    font-size: 16px;
+    font-weight: 700;
+    margin-bottom: 15px;
+}
+
+footer-anchor {
+    color: white;
+    text-transform: uppercase;
+    font-size: 12px;
+    padding: 0 0 4px;
+    text-decoration: underline;
+}
+
