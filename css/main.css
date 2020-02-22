@@ -280,7 +280,7 @@ color: #364147;
 }
 
 .full-banner-sidebar {
-    flex: 0 0 41.666667;
+    flex: 0 0 41.666667%;
     background-color: #364147;
     text-transform: uppercase;
     padding: 30px;
