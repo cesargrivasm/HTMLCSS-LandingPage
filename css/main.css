@@ -274,13 +274,13 @@ color: #364147;
 .full-banner-image {
     flex: 0 0 58.333333%;
     background-image: url('../img/vista.jpg') ;
-    size: cover;
-    position: top center;
-    height: 400px;
+    background-size: cover;
+    background-position: top center;
+    min-height: 400px;
 }
 
 .full-banner-sidebar {
-    flex: 0 0 41.6666667;
+    flex: 0 0 41.666667;
     background-color: #364147;
     text-transform: uppercase;
     padding: 30px;
