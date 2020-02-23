@@ -434,9 +434,11 @@ text-decoration: underline;
     max-width: 230px;
 }
 
-.demo { padding: 0 30px; }
+.demo { 
+    padding: 0 30px; 
+}
 
-.demo:before {
+.demo:before{
     content: "";
     display: block;
     width: 100%;
